@@ -19,6 +19,7 @@ h1 {
     color: #CACACA;
     transform: scaleY(1.2);
     letter-spacing: 10px;
+    font-weight: bold;
 }
 
 hr {
